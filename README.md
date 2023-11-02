@@ -6,11 +6,11 @@
 <h3 align="center">A passionate frontend developer from Serbia</h3>
 
 
-- 🔭 I’m currently working on **live results project**
+- 🔭 I’m currently working on **React js project**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React, Node js and MongoDb**
 
-- 💬 Ask me about **react, javascript**
+- 💬 Ask me about **react, javascript, nodejs, mongoDb**
 
 - 📫 How to reach me **pavle.rvovic95@gmail.com**
 
