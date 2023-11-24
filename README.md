@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on **React js project**
 
-- 🌱 I’m currently learning **React, Node js and MongoDb**
+- 🌱 I’m currently learning **React and Next js **
 
-- 💬 Ask me about **react, javascript, nodejs, mongoDb**
+- 💬 Ask me about **react, javascript, Next js**
 
 - 📫 How to reach me **pavle.rvovic95@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 
